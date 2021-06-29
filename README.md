@@ -1,1 +1,1 @@
-# DiHAC(Digital-Home-Automation-Controller)
+# DiHAC(Digital Home Automation Controller)
